@@ -3,10 +3,10 @@
   <channel>
     <title>pin</title>
     <description></description>
-    <link>http://pin.or.at/</link>
-    <atom:link href="http://pin.or.at/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Aug 2016 01:56:24 +0200</pubDate>
-    <lastBuildDate>Fri, 12 Aug 2016 01:56:24 +0200</lastBuildDate>
+    <link>http://pin.or.at/pin-web-new/</link>
+    <atom:link href="http://pin.or.at/pin-web-new/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Aug 2016 01:57:59 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Aug 2016 01:57:59 +0200</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
     
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 29 Feb 2016 09:48:44 +0100</pubDate>
-        <link>http://pin.or.at/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</link>
-        <guid isPermaLink="true">http://pin.or.at/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</guid>
+        <link>http://pin.or.at/pin-web-new/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</link>
+        <guid isPermaLink="true">http://pin.or.at/pin-web-new/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</guid>
         
         
         <category>jekyll</category>
