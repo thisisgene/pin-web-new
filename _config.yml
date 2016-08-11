@@ -16,7 +16,7 @@ description:
 index:
   de:
   en: en/index.html
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pin-web-new" # the subpath of your site, e.g. /blog
 url: "http://pin.or.at" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
