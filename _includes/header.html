@@ -3,13 +3,13 @@
 
     <div class="wrapper">
 
-      <a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}"><img src='/assets/img/pin-web-header_420.png' /></a>
+      <a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}"><img src={{ '/assets/img/pin-web-header_420.png' | prepend: site.baseurl }} /></a>
 
 
 
     </div>
     <div class="language-box">
-    
+
       {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
       {% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }} lang-link pjax" data-lang="{{ page.lang }}">{{ post.lang }}</a>{% endfor %}
 
