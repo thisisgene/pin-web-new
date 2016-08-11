@@ -1,0 +1,36 @@
+%flex {
+  display: -webkit-flex;
+  // display: -moz-flex;
+  display: flex;
+  // justify-content: center;
+}
+
+#main-wrapper {
+  @extend %flex;
+  // -webkit-flex: 1 0 0;
+  //  flex: 1 0 0;
+}
+
+
+
+#menu-container {
+
+  @extend %flex;
+  -webkit-flex-direction: row;
+   flex-direction: row;
+  -webkit-justify-content: flex-end;
+   justify-content: flex-end;
+}
+
+#menu-item-container {
+  text-align: right;
+  @extend %flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+
+}
+
+
+#right-container {
+  // width: 217.6px;
+}

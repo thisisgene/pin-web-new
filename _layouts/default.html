@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang={{page.lang}}>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    <div id='main-wrapper'>
+      {% include side-menu.html %}
+
+      <div id='content-container' class="page-content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </div>
+      <div id='right-container'></div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
