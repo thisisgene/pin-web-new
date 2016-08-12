@@ -109,6 +109,23 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/en/" />
         
+          <xhtml:link rel="alternate" hreflang="ar" href="/ar/" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/ar/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/" />
+        
+          <xhtml:link rel="alternate" hreflang="ar" href="/ar/" />
+        
           <xhtml:link rel="alternate" hreflang="de" href="/" />
         
         <changefreq>weekly</changefreq>
@@ -121,6 +138,8 @@
         
         
           <xhtml:link rel="alternate" hreflang="en" href="/en/" />
+        
+          <xhtml:link rel="alternate" hreflang="ar" href="/ar/" />
         
           <xhtml:link rel="alternate" hreflang="de" href="/" />
         
