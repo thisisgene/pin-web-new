@@ -9,16 +9,13 @@
 title:
   de: pin
   en: pin
-  ar: pin
 email: your-email@domain.com
 description:
   de:
   en:
-  ar:
 index:
   de:
   en: en
-  ar: ar
 baseurl: "/pin-web-new" # the subpath of your site, e.g. /blog
 url: "http://pin.or.at" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
